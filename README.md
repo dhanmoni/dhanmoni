@@ -3,8 +3,7 @@
 ## I'm a Software Developer and a student!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects & participate in hackathons.
-- ⚡ Fun fact: I am self-taught.
+- 🥅 2021 Goals: Contribute more to Open Source projects & participate in hackathons.
 
 ### Connect with me:
 
