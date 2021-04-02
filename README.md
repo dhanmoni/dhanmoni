@@ -2,7 +2,7 @@
 
 ## I'm a Software Developer and a student!
 
-- 🌱 I’m currently learning DS&Algo;
+- 🌱 I’m currently learning Docker and DS&Algo;
 - 🥅 2021 Goals: Contribute more to Open Source projects & participate in hackathons.
 
 ### Connect with me:
