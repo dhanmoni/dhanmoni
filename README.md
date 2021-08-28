@@ -1,8 +1,8 @@
 ### Hi there, I'm [Dhanmoni][website] 👋
 
-## I'm a Software Developer and a student!
+## I'm a Software Developer, GSoC'er 2021 and pursuing my Bachelor degree in Computer Applications!
 
-- 🌱 I’m currently learning Docker and DS&Algo;
+- 🌱 I’m currently learning DS&Algo;
 - 🥅 2021 Goals: Contribute more to Open Source projects & participate in hackathons.
 
 ### Connect with me:
@@ -41,5 +41,5 @@
 
 [website]: https://dhanmoni-nath.web.app
 [twitter]: https://twitter.com/dmn_codes19
-[instagram]: https://instagram.com/dmn_codes19.js
+[instagram]: https://instagram.com/dhanmoni_nath.js
 [linkedin]: https://linkedin.com/in/dhanmoni-nath-484748166/
