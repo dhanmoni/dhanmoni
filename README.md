@@ -1,6 +1,6 @@
 ### Hi there, I'm [Dhanmoni][website] 👋
 
-## I'm a Software Developer, GSoC'er 2021 and pursuing my Bachelor degree in Computer Applications!
+## I'm a Software Developer, GSoC'er 2021 and a computer science student!
 
 - 🌱 I’m currently learning DS&Algo;
 - 🥅 2021 Goals: Contribute more to Open Source projects & participate in hackathons.
