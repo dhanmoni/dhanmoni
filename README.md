@@ -2,8 +2,8 @@
 
 ## I'm a Software Developer, GSoC'er 2021 and a computer science student!
 
-- 🌱 I’m currently learning DS&Algo;
-- 🥅 2021 Goals: Contribute more to Open Source projects & participate in hackathons.
+- 🌱 I’m currently learning Blockchain;
+- 🥅 2022 Goals: Build Web3 projects
 
 ### Connect with me:
 
@@ -39,7 +39,7 @@
 <br />
 <br />
 
-[website]: https://dhanmoni-nath.web.app
+[website]: https://dhanmoninath.com
 [twitter]: https://twitter.com/dmn_codes19
 [instagram]: https://instagram.com/dhanmoni_nath.js
 [linkedin]: https://linkedin.com/in/dhanmoni-nath-484748166/
