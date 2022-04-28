@@ -41,5 +41,5 @@
 
 [website]: https://dhanmoninath.com
 [twitter]: https://twitter.com/dmn_codes19
-[instagram]: https://instagram.com/dhanmoni_nath.js
-[linkedin]: https://linkedin.com/in/dhanmoni-nath-484748166/
+[instagram]: https://instagram.com/dhanmoni_nath.ig
+[linkedin]: https://linkedin.com/in/dhanmoni-nath/
