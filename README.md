@@ -1,6 +1,6 @@
 ### Hi there, I'm [Dhanmoni][website] 👋
 
-## I'm a Software Developer, GSoC'er 2021 and a computer science student!
+## I'm a Software Developer, GSoC'21 and a computer science student!
 
 - 🌱 I’m currently learning Blockchain;
 - 🥅 2022 Goals: Build Web3 projects
