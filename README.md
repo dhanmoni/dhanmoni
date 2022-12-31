@@ -2,8 +2,8 @@
 
 ## I'm a Software Developer, Google Summer Of Code student 2021 (GSoC'21) and a computer science student!
 
-- 🌱 I’m currently learning Blockchain;
-- 🥅 2022 Goals: Build Web3 projects
+- 🌱 I’m currently learning practising Leetcode questions;
+- 🥅 2023 Goals: Get a full-time job
 
 ### Connect with me:
 
