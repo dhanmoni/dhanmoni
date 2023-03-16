@@ -2,7 +2,7 @@
 
 ## I'm a Software Developer, Google Summer Of Code student 2021 (GSoC'21) and a computer science student!
 
-- 🌱 I’m currently learning practising Leetcode questions;
+- 🌱 I’m currently learning DSA!
 - 🥅 2023 Goals: Get a full-time job
 
 ### Connect with me:
