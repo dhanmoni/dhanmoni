@@ -2,9 +2,6 @@
 
 ## I'm a Software Developer, Google Summer Of Code student 2021 (GSoC'21) and a computer science student!
 
-- 🌱 I’m currently learning DSA!
-- 🥅 2023 Goals: Get a full-time job
-
 ### Connect with me:
 
 [<img align="left" alt="dhanmoni-nath.web.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -39,7 +36,7 @@
 <br />
 <br />
 
-[website]: https://dhanmoninath.com
+[website]: https://dhanmoni-nath.web.app
 [twitter]: https://twitter.com/dmn_codes19
 [instagram]: https://instagram.com/dhanmoni_nath.ig
 [linkedin]: https://linkedin.com/in/dhanmoni-nath/
