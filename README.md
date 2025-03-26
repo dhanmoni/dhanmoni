@@ -1,6 +1,6 @@
 ### Hi there, I'm [Dhanmoni][website] 👋
 
-## I'm a Software Developer, Google Summer Of Code student 2021 (GSoC'21) and a computer science student!
+## I'm a Software Engineer, Google Summer Of Code student 2021 (GSoC'21)!
 
 ### Connect with me:
 
